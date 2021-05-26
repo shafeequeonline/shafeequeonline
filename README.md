@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi I am Shafeeque 👋
 
+💻 Senior Frontend Engineer EQS Group
 <!--
 **shafeequeonline/shafeequeonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
