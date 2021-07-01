@@ -1,10 +1,10 @@
 ### Hi I am Shafeeque 👋
 
-💻  Senior Frontend Engineer EQS Group
-🌱 I’m currently learning to Master Frontend Frameworks
-🔭 Skillset - React | Angular | TypeScript | JavaScript | HTML5 | CSS3
+💻  Senior Frontend Engineer EQS Group \n
+🌱 I’m currently learning to Master Frontend Frameworks \n
+🔭 Skillset - React | Angular | TypeScript | JavaScript | HTML5 | CSS3 \n
 
-📫 Drop me a mail to [Dr. Ken Lunde](mailto:mshafeequemsn@icloud.com?subject=[GitHub]%20Connect%20with%20Shafeeque)
+📫 Drop me a mail to [Shafeeque](mailto:mshafeequemsn@icloud.com?subject=[GitHub]%20Connect%20with%20Shafeeque)
 <!--
 **shafeequeonline/shafeequeonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
