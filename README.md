@@ -1,11 +1,8 @@
-
-
 <h1 align="center">
 Hi, I am Shafeeque 👋
 </h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shafeequeonline?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shafeequeonline)
-
 
 💻 &nbsp;&nbsp;Senior Frontend Engineer EQS Group. <br />
 🌱 &nbsp;&nbsp;I’m currently learning new Frontend Technologies  <br />
@@ -32,9 +29,8 @@ Hi, I am Shafeeque 👋
 <br/>
 <br/>
 
-```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafeequeonline&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafeequeonline)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [twitter]: https://twitter.com/shafeequeonline
 [instagram]: https://instagram.com/shafeeque.online
