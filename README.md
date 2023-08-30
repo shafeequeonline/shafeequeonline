@@ -4,9 +4,9 @@ Hi, I am Shafeeque 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shafeequeonline?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shafeequeonline)
 
-💻 &nbsp;&nbsp;Senior Frontend Engineer EQS Group. <br />
-🌱 &nbsp;&nbsp;I’m currently learning new Frontend Technologies  <br />
-🔭 &nbsp;&nbsp;Expereinced in - React | Angular | TypeScript | JavaScript | HTML5 | CSS3 <br />
+💻 &nbsp;&nbsp;Frontend Web Developer at Chal-tech GmbH, Berlin, Germany. <br />
+🌱 &nbsp;&nbsp;Always looking to learn latest tech.  <br />
+🔭 &nbsp;&nbsp;Expereinced in - Vue | Angular | React | TypeScript | JavaScript | HTML5 | CSS3 <br />
 📫 &nbsp;&nbsp;Drop me a mail to [mshafeequemsn@icloud.com](mailto:mshafeequemsn@icloud.com?subject=[GitHub]%20Connect%20with%20Shafeeque)
 #
 ### Connect with me:
