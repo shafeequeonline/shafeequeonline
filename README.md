@@ -4,9 +4,9 @@ Hi, I am Shafeeque 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/shafeequeonline?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shafeequeonline)
 
-💻 &nbsp;&nbsp;Frontend Web Developer at Chal-tech GmbH, Berlin, Germany. <br />
+💻 &nbsp;&nbsp;Senior Consultant at MHP - A Porsche Company, Munich, Germany. <br />
 🌱 &nbsp;&nbsp;Always looking to learn latest tech.  <br />
-🔭 &nbsp;&nbsp;Expereinced in - Vue | Angular | React | TypeScript | JavaScript | HTML5 | CSS3 <br />
+🔭 &nbsp;&nbsp;Expereinced in - Angular | React | Vue | Svelte | TypeScript  JavaScript | HTML5 | CSS3 <br />
 📫 &nbsp;&nbsp;Drop me a mail to [mshafeequemsn@icloud.com](mailto:mshafeequemsn@icloud.com?subject=[GitHub]%20Connect%20with%20Shafeeque)
 #
 ### Connect with me:
